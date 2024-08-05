@@ -31,5 +31,5 @@ This project provides a complete pipeline for building, training, evaluating, an
 4. evaluation_module.py: Functions to evaluate models and plot decision trees.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Apache License 2.0.
    
