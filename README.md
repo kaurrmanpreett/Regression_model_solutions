@@ -6,7 +6,7 @@ This project provides a complete pipeline for building, training, evaluating, an
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/kaurrmanpreett/Regression_model_solutions.git
+   git clone https://github.com/kaurrmanpreett/Regression_models.git
 
 2. Create and activate a virtual environment (optional but recommended):
    ```sh
